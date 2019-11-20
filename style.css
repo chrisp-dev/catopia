@@ -5,5 +5,5 @@
 }
 
 body {
-    background-color: linear-gradient(5deg, salmon, transparent);
+    background: linear-gradient(5deg, salmon, transparent);
 }
